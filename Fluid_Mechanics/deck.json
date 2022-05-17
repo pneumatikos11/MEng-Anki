@@ -1,0 +1,477 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "eacdb309-d5c7-11ec-a48f-5c5f67a258b3",
+            "deck_config_uuid": "eacdb30a-d5c7-11ec-acc1-5c5f67a258b3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Hydrostatic Forces on Surfaces",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "eacdda1a-d5c7-11ec-9663-5c5f67a258b3",
+            "deck_config_uuid": "eacdda1b-d5c7-11ec-9691-5c5f67a258b3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kinematics of Fluids",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Define Kinematics",
+                        "Kinematics is defined as the branch of science which deals which deals with the motion of particles without considering the forces causing the motion."
+                    ],
+                    "guid": "K(5jUs[IG3",
+                    "note_model_uuid": "eacd64e4-d5c7-11ec-97bd-5c5f67a258b3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How many methods can be used to describe the motion of fluids?",
+                        "Two methods"
+                    ],
+                    "guid": "c1lOniB@9(",
+                    "note_model_uuid": "eacd64e4-d5c7-11ec-97bd-5c5f67a258b3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name the methods used to describe the motion of fluids",
+                        "1. Lagrangian method<br>2. Eulerian method"
+                    ],
+                    "guid": "y@lVr1_wlj",
+                    "note_model_uuid": "eacd64e4-d5c7-11ec-97bd-5c5f67a258b3",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "eacd3dc3-d5c7-11ec-a3b3-5c5f67a258b3",
+    "deck_config_uuid": "eacd3dc4-d5c7-11ec-bdca-5c5f67a258b3",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "eacd3dc4-d5c7-11ec-bdca-5c5f67a258b3",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    1.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "eacdb30a-d5c7-11ec-acc1-5c5f67a258b3",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    1.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "eacdda1b-d5c7-11ec-9691-5c5f67a258b3",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    1.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Fluid Mechanics",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "eacd64e1-d5c7-11ec-a25f-5c5f67a258b3",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "eacd64e4-d5c7-11ec-97bd-5c5f67a258b3",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "eacd8c08-d5c7-11ec-b7ab-5c5f67a258b3",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pressure is {{c1::Pressure is the force per unit area acting on a surface}}",
+                "Pressure is the force per unit area acting on a surface"
+            ],
+            "guid": "v2X+2i-&_9",
+            "note_model_uuid": "eacd64e1-d5c7-11ec-a25f-5c5f67a258b3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define pascal's Law",
+                "The pressure or intensity of pressure at a point in a static fluid is equal in all directions."
+            ],
+            "guid": "K8VR1in.oG",
+            "note_model_uuid": "eacd64e4-d5c7-11ec-97bd-5c5f67a258b3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mass Density",
+                "This is the mass per unit volume of a substance."
+            ],
+            "guid": "O@W*P##XzL",
+            "note_model_uuid": "eacd8c08-d5c7-11ec-b7ab-5c5f67a258b3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Specific Volume",
+                "This is the volume per unit mass of a substance."
+            ],
+            "guid": "gG%2_!O.Jf",
+            "note_model_uuid": "eacd8c08-d5c7-11ec-b7ab-5c5f67a258b3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Specific Weight",
+                "&nbsp;It is the weight per unit volume of a fluid."
+            ],
+            "guid": "P{Pb-?[4?]",
+            "note_model_uuid": "eacd8c08-d5c7-11ec-b7ab-5c5f67a258b3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Weight Density",
+                "It is the weight per unit volume of a fluid."
+            ],
+            "guid": "B_%p=xOpkB",
+            "note_model_uuid": "eacd8c08-d5c7-11ec-b7ab-5c5f67a258b3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Other name for Specific Weight",
+                "Other name for Weight Density"
+            ],
+            "guid": "B]UVnVF:gT",
+            "note_model_uuid": "eacd8c08-d5c7-11ec-b7ab-5c5f67a258b3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the unit of Specific Weight?",
+                "kg/m<sup>2</sup>s<sup>2</sup>"
+            ],
+            "guid": "prF{74i~0E",
+            "note_model_uuid": "eacd64e4-d5c7-11ec-97bd-5c5f67a258b3",
+            "tags": []
+        }
+    ]
+}
